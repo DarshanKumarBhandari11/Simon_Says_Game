@@ -20,4 +20,4 @@ You only need a web browser to run this game. No additional software is required
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/simon-says.git
+   git clone https://github.com/DarshanKumarBhandari11/Simon_Says_Game.git
