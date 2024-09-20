@@ -42,13 +42,14 @@ You only need a web browser to run this game. No additional software is required
 - **JavaScript**: For game logic and interactivity.
 
 ## File Structure
-
+   ```
    Simon_Says_Game/
    │
    ├── README.md         # README file for description of the game
    ├── game.html         # Main HTML file
    ├── game.css          # Styles for the game
    └── game.js           # JavaScript logic for the game
+   ```
 
 ## Contributing
 
